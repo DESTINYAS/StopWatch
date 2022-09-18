@@ -1,0 +1,32 @@
+html {
+    background-color: red;
+    text-align: center;
+    width: 800px;
+    margin: 30px auto;
+}
+h1, h2 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+.time {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+    font-size: xx-large;
+}
+.button {
+    background: red;
+    font-family: "Times New Roman", Times, serif;
+    font: 1.2em;
+    width: 100%;
+}
+#start, #stop, #reset {
+    
+    font-size: 25px;
+}
+
+#start :hover{
+    font-weight: bold;
+    color: yellow;
+}
